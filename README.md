@@ -61,25 +61,18 @@ Band-pass filtering a 10 Hz square wave (20-80 Hz range). Only harmonics inside 
 ---
 
 ## How to Run
-1.	Clone this repository to your local machine.
-Example: git clone https://github.com/yourusername/yourrepo.git
-2. Open the file Fourier_transform_exercises.py in your Python editor or IDE.
-3. Make sure you have the required libraries installed:
-  
-⦁	numpy
-
-⦁	matplotlib
-
-⦁	scipy
-
-You can install them using: pip install numpy matplotlib scipy
-
-4. Run the script:
-
-⦁	On Windows: open Command Prompt, navigate to the folder, and type:
-python Fourier_transform_exercises.py
-
-⦁	On Linux/Mac: open Terminal, navigate to the folder, and type:
-python3 Fourier_transform_exercises.py
+- Clone this repository to your local machine.  
+  Example: git clone https://github.com/yourusername/yourrepo.git
+- Open the file Fourier_transform_exercises.py in your Python editor or IDE.
+- Make sure you have the required libraries installed:  
+  - numpy  
+  - matplotlib  
+  - scipy  
+  You can install them using: pip install numpy matplotlib scipy
+- Run the script:  
+  - On Windows: open Command Prompt, navigate to the folder, and type:  
+    python Fourier_transform_exercises.py  
+  - On Linux/Mac: open Terminal, navigate to the folder, and type:  
+    python3 Fourier_transform_exercises.py  
 
 The plots and FFT results will appear in separate windows as the script runs.
